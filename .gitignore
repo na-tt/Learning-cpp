@@ -1,10 +1,10 @@
-# Ignore everything
+# Ignore all
 *
 
-# Don`t ignore subdirectories
-!/*
+# Don't ignore subdirectories
+!/**/
 
-# Don't ignore source code
+# File extensions to include
 !*.c
 !*.cpp
 !*.h
